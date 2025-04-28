@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gauri Sharma</h1>
 <h3 align="center">👩‍💻 Junior Dev on the Rise | Code. Learn. Repeat. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurisharma-tech&label=Profile%20views&color=0e75b6&style=flat" alt="gaurisharma-tech" /> </p>
-
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurisharma-tech" alt="gaurisharma-tech" /></a> </p> -->
 
 - 📫 How to reach me : **gaurisharma89892@gmail.com**
 
 - ⚡ Fun fact: **I’m a bit obsessive about deadlines — if I don’t finish something on time, it really frustrates me!**
 
-<h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 </p>
 
